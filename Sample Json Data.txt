@@ -1,0 +1,27 @@
+//Account Update Json Data
+{
+"updateFor":"Account",
+"recordsList":"[{'id':'0013B000007r7Ib','Nale':'Test uday'}]"
+}
+
+
+//Contact
+
+{
+"updateFor":"Contact",
+"recordsList":"[{'id':'0013B000007r7Ib','Email':'test@noemail'}]"
+}
+
+
+//For User
+
+
+{
+"updateFor":"User",
+"recordsList":"[{'id':'0053B000000X4tM'}]"
+}
+
+
+Note :
+	'updateFor' key determails The Type Of Records Need to Do Update
+	for boolean fields we need to use only lowercase letters (true/false ) BUT NOT (True/False)
